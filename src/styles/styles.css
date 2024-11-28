@@ -1,0 +1,13 @@
+
+/* src/styles/styles.css */
+.masonry-grid {
+    display: flex;
+    margin-left: -20px; /* Adjust based on gap size */
+    width: auto;
+  }
+  
+  .masonry-grid-column {
+    padding-left: 20px; /* Adjust based on gap size */
+    background-clip: padding-box; /* Ensures columns don’t overlap */
+  }
+  
